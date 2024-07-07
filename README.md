@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-# Credit Eligibility Prediction Project
+# Bank Credit Prediction using Machine Learning
 
 ## Overview
 
@@ -15,10 +15,6 @@ This project focuses on predicting credit eligibility using machine learning mod
   - [Web Application Deployment](#web-application-deployment)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 
